@@ -1,4 +1,4 @@
-# Java-Design-Patterns
+# Java Design Patterns
 A repository containing basic examples of different java design patterns
 
 ## Contents
