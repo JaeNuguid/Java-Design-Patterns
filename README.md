@@ -25,4 +25,4 @@ Observer pattern is used when there is one-to-many relationship between objects 
 
 <br/><br/><br/>
 ## Disclaimer
-All information stated above including the source codes and uml diagrams is provided in good faith for guidance and reference purposes only. It is of a general informational and educational nature, and the contributors of this repository takes no legal responsibility for the accuracy of the information provided via this page.
+All information stated above including the source codes and uml diagrams is provided in good faith for guidance and reference purposes only. It is of a general informational and educational nature, and the owner of this repository takes no legal responsibility for the accuracy of the information provided via this page.
