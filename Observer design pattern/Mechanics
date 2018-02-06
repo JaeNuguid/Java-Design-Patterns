@@ -1,6 +1,0 @@
-The LottoGame is the observable, while the Players are the observers.
-
-The LottoGame generates 5 unique 6-digit numbers each in different times. and broadcasts it to the players.
-
-Once the player update method is called(notified), it will display the time, its name, and then it will
-fetch the result from the LottoGame.
