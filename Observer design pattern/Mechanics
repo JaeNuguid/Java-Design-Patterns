@@ -1,4 +1,4 @@
-The LottoGame is the observable, while the Players are the observers.
+The LottoGame is the Object (Observable), while the Players are the observers.
 
 The LottoGame generates 5 unique 6-digit numbers each in different times. and broadcasts it to the players.
 
