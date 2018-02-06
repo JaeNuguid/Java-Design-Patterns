@@ -8,11 +8,10 @@ A repository containing basic examples of different java design patterns
 
 
 ## Strategy Design Pattern<a id="sdp"></a>
- <img src="https://github.com/JaeNuguid/Java-Design-Patterns/blob/master/Strategy%20design%20pattern/strategy-design-pattern.png?raw=true" height="350" width="600"/> <br/>
- info soon - info soon -info soon - info soon -info soon - info soon -info soon - info soon -
- info soon - info soon -info soon - info soon -info soon - info soon -info soon - info soon -
- info soon - info soon -info soon - info soon -info soon - info soon -info soon - info soon 
-
+<img src="https://github.com/JaeNuguid/Java-Design-Patterns/blob/master/Strategy%20design%20pattern/strategy-design-pattern.png?raw=true" height="350" width="600"/> <br/>
+Strategy Design Pattern allows the algorithm to vary independently from clients that use it. It helps on designing a flexible and reusable object-oriented software.
+<br/>
+The ability to store and retrieve a reference to some code in a data structure is the fundamental prerequisite in order to implement Strategy Design Pattern. This is achievable by mechanisms as the native function pointer, the first-class function, classes or class instances in object-oriented programming languages, or accessing the language implementation's internal storage of code through reflection.
 
 <br/><br/><br/>
 ## Disclaimer
