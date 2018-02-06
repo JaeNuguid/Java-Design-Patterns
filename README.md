@@ -12,3 +12,8 @@ A repository containing basic examples of different java design patterns
  info soon - info soon -info soon - info soon -info soon - info soon -info soon - info soon -
  info soon - info soon -info soon - info soon -info soon - info soon -info soon - info soon -
  info soon - info soon -info soon - info soon -info soon - info soon -info soon - info soon 
+
+
+<br/><br/><br/>
+## Disclaimer
+All information above including the source codes, and uml diagrams is provided in good faith for guidance and reference purposes only. It is of a general informational and educational nature, and the contributors of this repository takes no legal responsibility for the accuracy of the information provided via this page.
